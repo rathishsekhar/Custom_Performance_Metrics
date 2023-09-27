@@ -1,6 +1,6 @@
-# Custom_RandomizedSearchCV README
+# Custom_Performance_Metrics README
 
-Project Name: Custom RandomizedSearchCV Implementation - Building a custom metrics commonly used in machine learning similar to that of sklearn.metrics
+Project Name: Custom Performance Metrics - Building a custom metrics commonly used in machine learning similar to that of sklearn.metrics
 
 # Table of Contents
 1. Overview
@@ -33,9 +33,9 @@ The objective is to gain insight into these metrics through hands-on coding and 
 
 # Prerequisites
 
-Python 3.6 or later preferably
-Jupyter Notebook
-Libraries listed in requirements.txt
+Python 3.6 or later preferably \
+Jupyter Notebook \
+Libraries listed in requirements.txt \
 
 # Project Structure
 
